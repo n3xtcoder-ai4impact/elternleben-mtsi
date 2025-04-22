@@ -4,16 +4,20 @@ This repository is made available to us to share resources and collaborate.  You
 
 ### **Below some key files and references:**
 
-**Notion project notes:** https://www.notion.so/AI-Parenting-Assistant-Chatbot-Project-1d1f99943bee80cbb85bf497aa42996a
+- **Notion project notes:** https://www.notion.so/AI-Parenting-Assistant-Chatbot-Project-1d1f99943bee80cbb85bf497aa42996a
 
-**Deployed Web App (Azure):** https://myaibotappservice.azurewebsites.net/index.html
+- **Deployed Web App (Azure):** https://myaibotappservice.azurewebsites.net/index.html
 
-**Project Repository (GitHub):** https://github.com/jeannineshiu/AiBot
+- **Project Repository (GitHub):** https://github.com/jeannineshiu/AiBot
 
 
 ### **Other files:**
-**Chatbot User Journey:** https://docs.google.com/drawings/d/1syz1xuTLoigGUUkENb1PSKR17G-uQ_nnRNlvSUhbAD0/edit?usp=drive_link
-This is an in-progress document for us to update and refer to, as needed.  It should provide reference to the journey the user would take once entering the ChatBot. The file is created through Google Drawings and is open to edit by all who access the link. 
+- **Chatbot User Journey:** https://docs.google.com/drawings/d/1syz1xuTLoigGUUkENb1PSKR17G-uQ_nnRNlvSUhbAD0/edit?usp=drive_link
+This is an in-progress document for us to update and refer to, as needed.  It should provide reference to the journey the user would take once entering the ChatBot. The file is created through Google Drawings and is open to edit by all who access the link.
+- **Chatbot Timeframe:** https://docs.google.com/drawings/d/1Uql-fBloV_CWmxlomrYozs3d0hAJm9ReI_8hU6C0ddE/edit?usp=sharing
+This is an overall timeframe with key milestones, open for edits and updating. Snapshot of image as of 22 April follows:
+
+![Elternleben_ChatBot_Timeframe](https://github.com/user-attachments/assets/cdf16a57-e05b-4387-b99f-c8297d20ab54)
 
 ### ChatBot_Elternleben
 
