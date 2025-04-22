@@ -14,3 +14,26 @@ This repository is made available to us to share resources and collaborate.  You
 ### **Other files:**
 **Chatbot User Journey:** https://docs.google.com/drawings/d/1syz1xuTLoigGUUkENb1PSKR17G-uQ_nnRNlvSUhbAD0/edit?usp=drive_link
 This is an in-progress document for us to update and refer to, as needed.  It should provide reference to the journey the user would take once entering the ChatBot. The file is created through Google Drawings and is open to edit by all who access the link. 
+
+### ChatBot_Elternleben
+
+This folder contains all the files and subfolders needed to run **ChatBot_Elternleben**, a chatbot built with Streamlit. It is intended for local testing while we continue development of a cloud-hosted version using Azure. If you have any questions, contact Edicta.
+
+#### How to run the chatbot locally
+
+1. **Download the full `ChatBot_Elternleben` folder** to your local machine.
+
+2. **Create a free [Hugging Face](https://huggingface.co/) account** to obtain an access token:
+   - Go to your profile → **Settings**
+   - In the left sidebar, click **Access Tokens**
+   - Click **New token**, give it a name, set the role to **read**, and generate it
+   - **Copy the token immediately** — it will not be shown again
+
+3. **Insert your Hugging Face token** into the script:
+   - Open `ChatBot_Elternleben.py`
+   - Paste the token on **line 92**
+
+4. **Run the script from your terminal**:
+
+   ```bash
+   streamlit run [path-to-folder]/ChatBot_Elternleben/ChatBot_Elternleben.py
