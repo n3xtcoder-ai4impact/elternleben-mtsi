@@ -2,7 +2,7 @@
 
 This repository is made available to us to share resources and collaborate.  You will find some folders with information on the pilot chatbot previously created, as well as foundation information shared by N3xtcoder about the challenge.
 
-### **Below some key files and references:**
+### **Key files and references:**
 
 - **Notion project notes:** https://www.notion.so/AI-Parenting-Assistant-Chatbot-Project-1d1f99943bee80cbb85bf497aa42996a
 
