@@ -9,6 +9,7 @@ This repository is made available to us to share resources and collaborate.  You
 - **Deployed Web App (Azure):** https://myaibotappservice.azurewebsites.net/index.html
 
 - **Project Repository (GitHub):** https://github.com/jeannineshiu/AiBot
+- **AI 4 Impact Elternleben Repository (GitHub):** https://github.com/n3xtcoder/ai4impact-elternleben
 
 
 ### **Other files:**
