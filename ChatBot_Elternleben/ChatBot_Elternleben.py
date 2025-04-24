@@ -106,7 +106,7 @@ vector_index = VectorStoreIndex.from_documents(
     transformations=[text_splitter],
     embed_model=embeddings
 )
-vector_index.storage_context.persist(persist_dir=os.path.dirname(__file__), "Vector_index")
+vector_index.storage_context.persist(persist_dir=os.path.join(os.path.dirname(__file__), "Vector_index"))
 
 # Uncomment these lines after first run (and comment out the first-run lines, 104-109)-------
 #storage_context = StorageContext.from_defaults(persist_dir=os.path.join(os.path.dirname(__file__), "Vector_index"))
