@@ -36,7 +36,7 @@ This folder contains all the files and subfolders needed to run **ChatBot_Eltern
 
 3. **Insert your Hugging Face token** into the script:
    - Open `ChatBot_Elternleben.py`
-   - Paste the token on **line 92**
+   - Paste the token on **line 110**
 
 4. **Run the script from your terminal**:
 
