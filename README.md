@@ -4,12 +4,21 @@ This repository is made available to us to share resources and collaborate.  You
 
 ### **Key files and references:**
 
+- **Repository for local Streamlit ParentingBot prototype:** [https://github.com/EdictaMG/ParentingBot/blob/main/README.md](https://github.com/EdictaMG/ParentingBot/tree/main)
+
 - **Notion project notes:** https://www.notion.so/AI-Parenting-Assistant-Chatbot-Project-1d1f99943bee80cbb85bf497aa42996a
 
-- **Deployed Web App (Azure):** https://myaibotappservice.azurewebsites.net/index.html
+- **Azure deployed Web App:** https://myaibotappservice.azurewebsites.net/index.html
 
-- **Project Repository (GitHub):** https://github.com/jeannineshiu/AiBot
-- **AI 4 Impact Elternleben Repository (GitHub):** https://github.com/n3xtcoder/ai4impact-elternleben
+- **Azure Project Repository (GitHub):** https://github.com/jeannineshiu/AiBot
+
+- **Azure RAG Demo concept and proposal:** https://docs.google.com/document/d/120txIj3H9KvHH61SS3fyG3ku7vDHxkaBzDF1Q1qEkNc/edit?tab=t.0#heading=h.4qr6f459l0nr
+
+- **Azure solution summary slides:** https://docs.google.com/presentation/d/1GcFGqxNvn40veGp9s1T53sEaYhXYFplGou3iUzyCDF8/edit#slide=id.g355a5af8500_0_0
+  
+- **AI 4 Impact Elternleben Program Repository (GitHub):** https://github.com/n3xtcoder/ai4impact-elternleben
+  
+  
 
 
 ### **Other files:**
