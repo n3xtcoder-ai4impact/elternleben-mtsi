@@ -6,7 +6,7 @@ This repository is made available to us to share resources and collaborate.  You
 
 - **Repository for local Streamlit ParentingBot prototype:** [https://github.com/EdictaMG/ParentingBot/blob/main/README.md](https://github.com/EdictaMG/ParentingBot/tree/main)
 
-- **Pitch slides:** https://docs.google.com/presentation/d/1qrNniIz80L5X_FmC5Zwllnek4XGQ79NDeEQJYJTq120/edit#slide=id.g3539d5ba2ed_2_119
+- **Pitch slides:** [https://docs.google.com/presentation/d/1qrNniIz80L5X_FmC5Zwllnek4XGQ79NDeEQJYJTq120/edit#slide=id.g3539d5ba2ed_2_119](https://docs.google.com/presentation/d/1qrNniIz80L5X_FmC5Zwllnek4XGQ79NDeEQJYJTq120/edit?usp=sharing)
   
 - **Notion project notes:** https://www.notion.so/AI-Parenting-Assistant-Chatbot-Project-1d1f99943bee80cbb85bf497aa42996a
 
