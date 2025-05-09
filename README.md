@@ -10,13 +10,9 @@ This repository is made available to us to share resources and collaborate.  You
   
 - **Notion project notes:** https://www.notion.so/AI-Parenting-Assistant-Chatbot-Project-1d1f99943bee80cbb85bf497aa42996a
 
-- **Azure deployed Web App:** https://myaibotappservice.azurewebsites.net/index.html
-
-- **Azure Project Repository (GitHub):** https://github.com/jeannineshiu/AiBot
-
-- **Azure RAG Demo concept and proposal:** https://docs.google.com/document/d/120txIj3H9KvHH61SS3fyG3ku7vDHxkaBzDF1Q1qEkNc/edit?tab=t.0#heading=h.4qr6f459l0nr
-
-- **Azure solution summary slides:** https://docs.google.com/presentation/d/1GcFGqxNvn40veGp9s1T53sEaYhXYFplGou3iUzyCDF8/edit#slide=id.g355a5af8500_0_0
+- **Azure Project Repository (Exploration Path 1: From Foundational Echobot to RAG Application) :** https://github.com/jeannineshiu/AiBot
+  
+- **Azure deployed web app (Exploration Path 2: Rapid Deployment of Official Demo with Custom Data Adaptation) :** https://capps-backend-4vz77ljuw7mdg.lemonpond-e906abf1.westeurope.azurecontainerapps.io/
   
 - **AI 4 Impact Elternleben Program Repository (GitHub):** https://github.com/n3xtcoder/ai4impact-elternleben
   
